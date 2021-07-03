@@ -1,0 +1,2 @@
+rootProject.name = "log_life_cycle_you"
+include ':app'
