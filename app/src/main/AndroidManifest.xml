@@ -11,8 +11,7 @@
         android:theme="@style/Theme.Log_life_cycle_you">
         <activity android:name=".Third_Activity"></activity>
         <activity android:name=".Second_Activity" />
-        <activity android:name=".First_Activity" />
-        <activity android:name=".MainActivity">
+        <activity android:name=".First_Activity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
